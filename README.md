@@ -1,101 +1,101 @@
 # Latest_LLM_Advancements
 
 
-April 2025:
+**April 2025:
+**
+  Good Read (LLM model serving): https://arxiv.org/abs/2504.19720 
+  
+  Testing mlflow before deploying : https://medium.com/@tsriharsha/testing-mlflow-pyfuncs-before-deploying-huge-time-saver-952fb35b7d84 
+  
+  Good CI/CD template : https://github.com/IBM/MLOps-CPD 
+  
+  Model2Vec for faster inference : https://github.com/MinishLab/model2vec 
+  
+  Weightwatcher to know which NN layers are performing better : https://github.com/CalculatedContent/WeightWatcher 
 
-Good Read (LLM model serving): https://arxiv.org/abs/2504.19720 
+**March 2025:
+**
+  LLM libraries : https://github.com/KalyanKS-NLP/llm-engineer-toolkit 
+  
+  Serving LLMs at scale : https://github.com/predibase/lorax 
+  
+  Flower package : Federated Learning Framework : https://flower.ai/docs/framework/tutorial-series-what-is-federated-learning.html 
+  
+  ShapIQ , similar to SHAP : https://github.com/mmschlk/shapiq 
+  
+  MLOps article collections : https://github.com/visenger/awesome-mlops  
 
-Testing mlflow before deploying : https://medium.com/@tsriharsha/testing-mlflow-pyfuncs-before-deploying-huge-time-saver-952fb35b7d84 
-
-Good CI/CD template : https://github.com/IBM/MLOps-CPD 
-
-Model2Vec for faster inference : https://github.com/MinishLab/model2vec 
-
-Weightwatcher to know which NN layers are performing better : https://github.com/CalculatedContent/WeightWatcher 
-
-March 2025:
-
-LLM libraries : https://github.com/KalyanKS-NLP/llm-engineer-toolkit 
-
-Serving LLMs at scale : https://github.com/predibase/lorax 
-
-Flower package : Federated Learning Framework : https://flower.ai/docs/framework/tutorial-series-what-is-federated-learning.html 
-
-ShapIQ , similar to SHAP : https://github.com/mmschlk/shapiq 
-
-MLOps article collections : https://github.com/visenger/awesome-mlops  
-
-February 2025:
-
-Python project design patterns : https://github.com/faif/python-patterns/tree/master 
-
-Gen AI Agents cookbook : https://github.com/NirDiamant/GenAI_Agents 
-
-Papers with code : https://paperswithcode.com/sota 
-
-Record linkage and deduplication : https://github.com/moj-analytical-services/splink?tab=readme-ov-file 
-
-Good MLOPS project structure : https://github.com/callmesora/llmops-python-package/tree/main?tab=readme-ov-file#tools  
-
-Python Libraries for review : https://github.com/josephmisiti/awesome-machine-learning 
-
-Optimizing LLM responses for correct results (different techniques): https://github.com/codelion/optillm 
-
-LLM prompt tracking and Routing : https://github.com/BerriAI/litellm  
-
-LLM Evaluations by Giskard : https://github.com/Giskard-AI/giskard 
-
-Data quality checks in Databricks : https://github.com/databrickslabs/dqx 
-
-Python LIbraries Hub : https://www.libhunt.com/l/python 
-
-Structured LLM Outputs by Outlines (opensource): https://github.com/dottxt-ai/outlines 
-
-Code to log in Databricks : https://ganeshchandrasekaran.com/databricks-using-python-logging-module-in-notebooks-6348bbb3ac60 
-
-Faster and better alternative to FastAPI : https://github.com/Lightning-AI/LitServe  
-
-semhash for deduplicating datasets using semantic similarity: https://github.com/MinishLab/semhash?s=03 
-
-LLM visualization : https://bbycroft.net/llm?s=03 
-
-Web Scrape Automation package : https://github.com/browser-use/browser-use 
-
-Good Finetuning Library of LLM models : https://github.com/axolotl-ai-cloud/axolotl / https://medium.com/@tayyibgondal2003/fine-tune-any-large-language-model-llm-with-axolotl-0dc783d52f7e 
-
-
-
-December 2024:
-
-Infinity vectorDB for faster hybrid search : https://infiniflow.org/ 
-
-Pypeln (Amazing library for process, theads and asyncio) : https://github.com/cgarciae/pypeln  
-
-DABS example tutorial : https://github.com/benitomartin/mlops-databricks-credit-default?tab=readme-ov-file/ https://medium.com/marvelous-mlops/building-an-end-to-end-mlops-project-with-databricks-8cd9a85cc3c0  
-
-Auto_Jobs_Applier_AI_Agent : https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent/tree/main
-
-LLMOPS Case Studies : https://www.zenml.io/llmops-database 
+**February 2025:
+**
+  Python project design patterns : https://github.com/faif/python-patterns/tree/master 
+  
+  Gen AI Agents cookbook : https://github.com/NirDiamant/GenAI_Agents 
+  
+  Papers with code : https://paperswithcode.com/sota 
+  
+  Record linkage and deduplication : https://github.com/moj-analytical-services/splink?tab=readme-ov-file 
+  
+  Good MLOPS project structure : https://github.com/callmesora/llmops-python-package/tree/main?tab=readme-ov-file#tools  
+  
+  Python Libraries for review : https://github.com/josephmisiti/awesome-machine-learning 
+  
+  Optimizing LLM responses for correct results (different techniques): https://github.com/codelion/optillm 
+  
+  LLM prompt tracking and Routing : https://github.com/BerriAI/litellm  
+  
+  LLM Evaluations by Giskard : https://github.com/Giskard-AI/giskard 
+  
+  Data quality checks in Databricks : https://github.com/databrickslabs/dqx 
+  
+  Python LIbraries Hub : https://www.libhunt.com/l/python 
+  
+  Structured LLM Outputs by Outlines (opensource): https://github.com/dottxt-ai/outlines 
+  
+  Code to log in Databricks : https://ganeshchandrasekaran.com/databricks-using-python-logging-module-in-notebooks-6348bbb3ac60 
+  
+  Faster and better alternative to FastAPI : https://github.com/Lightning-AI/LitServe  
+  
+  semhash for deduplicating datasets using semantic similarity: https://github.com/MinishLab/semhash?s=03 
+  
+  LLM visualization : https://bbycroft.net/llm?s=03 
+  
+  Web Scrape Automation package : https://github.com/browser-use/browser-use 
+  
+  Good Finetuning Library of LLM models : https://github.com/axolotl-ai-cloud/axolotl / https://medium.com/@tayyibgondal2003/fine-tune-any-large-language-model-llm-with-axolotl-0dc783d52f7e 
 
 
 
-November 2024:
+**December 2024:
+**
+  Infinity vectorDB for faster hybrid search : https://infiniflow.org/ 
+  
+  Pypeln (Amazing library for process, theads and asyncio) : https://github.com/cgarciae/pypeln  
+  
+  DABS example tutorial : https://github.com/benitomartin/mlops-databricks-credit-default?tab=readme-ov-file/ https://medium.com/marvelous-mlops/building-an-end-to-end-mlops-project-with-databricks-8cd9a85cc3c0  
+  
+  Auto_Jobs_Applier_AI_Agent : https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent/tree/main
+  
+  LLMOPS Case Studies : https://www.zenml.io/llmops-database 
 
-LLM Resources : https://llmresourceshub.vercel.app/ 
 
-Generate llm text from entire site : https://github.com/mendableai/llmstxt-generator 
 
-Fastest BM25 than elasticsearch : https://github.com/xhluca/bm25s?tab=readme-ov-file 
-
-Infinity for faster embeddings : https://github.com/michaelfeil/infinity 
-
-Raranker package: https://github.com/answerdotai/rerankers 
-
-nanop package -fast and open source Vector DB : https://medium.com/@sergii.ivakhno/unlocking-scalability-building-high-capacity-vector-databases-with-open-source-techniques-7c144fe3a325 
-
-Try any huggingface models : https://huggingface.co/spaces/featherless-ai/try-this-model
-
-Best Python Libraries ::https://github.com/ml-tooling/best-of-ml-python 
+**November 2024:
+**
+  LLM Resources : https://llmresourceshub.vercel.app/ 
+  
+  Generate llm text from entire site : https://github.com/mendableai/llmstxt-generator 
+  
+  Fastest BM25 than elasticsearch : https://github.com/xhluca/bm25s?tab=readme-ov-file 
+  
+  Infinity for faster embeddings : https://github.com/michaelfeil/infinity 
+  
+  Raranker package: https://github.com/answerdotai/rerankers 
+  
+  nanop package -fast and open source Vector DB : https://medium.com/@sergii.ivakhno/unlocking-scalability-building-high-capacity-vector-databases-with-open-source-techniques-7c144fe3a325 
+  
+  Try any huggingface models : https://huggingface.co/spaces/featherless-ai/try-this-model
+  
+  Best Python Libraries ::https://github.com/ml-tooling/best-of-ml-python 
 
 
 
