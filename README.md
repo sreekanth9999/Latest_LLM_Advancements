@@ -1,6 +1,6 @@
 ## 🔖 Curated Resources (LLMs, MLOps, CI/CD, RAG, etc.)
 
-<details>
+
 <summary><strong>April 2025</strong></summary>
 
 - Good Read (LLM model serving): [https://arxiv.org/abs/2504.19720](https://arxiv.org/abs/2504.19720)  
@@ -9,9 +9,7 @@
 - Model2Vec for faster inference: [https://github.com/MinishLab/model2vec](https://github.com/MinishLab/model2vec)  
 - Weightwatcher (NN layer diagnostics): [https://github.com/CalculatedContent/WeightWatcher](https://github.com/CalculatedContent/WeightWatcher)  
 
-</details>
 
-<details>
 <summary><strong>March 2025</strong></summary>
 
 - LLM libraries: [https://github.com/KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)  
@@ -20,9 +18,6 @@
 - ShapIQ (SHAP alternative): [https://github.com/mmschlk/shapiq](https://github.com/mmschlk/shapiq)  
 - MLOps article collection: [https://github.com/visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)  
 
-</details>
-
-<details>
 <summary><strong>February 2025</strong></summary>
 
 - Python project design patterns: [https://github.com/faif/python-patterns/tree/master](https://github.com/faif/python-patterns/tree/master)  
@@ -44,9 +39,6 @@
 - Web Scrape Automation: [https://github.com/browser-use/browser-use](https://github.com/browser-use/browser-use)  
 - Finetuning LLMs: [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) / [Medium Guide](https://medium.com/@tayyibgondal2003/fine-tune-any-large-language-model-llm-with-axolotl-0dc783d52f7e)  
 
-</details>
-
-<details>
 <summary><strong>December 2024</strong></summary>
 
 - Infinity vectorDB: [https://infiniflow.org/](https://infiniflow.org/)  
@@ -55,9 +47,6 @@
 - Auto Jobs Applier Agent: [https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent/tree/main](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent/tree/main)  
 - LLMOps Case Studies: [ZenML LLMOps DB](https://www.zenml.io/llmops-database)  
 
-</details>
-
-<details>
 <summary><strong>November 2024</strong></summary>
 
 - LLM Resources Hub: [https://llmresourceshub.vercel.app/](https://llmresourceshub.vercel.app/)  
@@ -69,4 +58,3 @@
 - Try any HF model: [https://huggingface.co/spaces/featherless-ai/try-this-model](https://huggingface.co/spaces/featherless-ai/try-this-model)  
 - Best ML Python Libraries: [https://github.com/ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)  
 
-</details>
